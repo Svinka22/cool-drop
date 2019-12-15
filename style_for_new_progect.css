@@ -1,1 +1,59 @@
+body {
+	margin: 0;
+}
 
+.div-form {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url("https://b1.gmbox.ru/c/134796.jpg");
+	width: 100vw;
+	height: 90vh;
+	padding-top: 10vh;
+}
+
+.div-auto {
+	width: 300px;
+
+	margin: auto;
+}
+
+.div-name {
+	width: 300px;
+}
+
+.name {
+	width: 295px;
+	height: 25px;
+	padding-left: 5px;
+	padding-top: 5px;
+	background-color: #000000;
+	opacity: 0.3;
+	border: 2px solid #FFFFFF; 
+	outline: none;
+	color: #FFFFFF;
+}
+
+.name:hover {
+	opacity: 0.7;
+}
+
+.div-surname {
+	width: 300px;
+	margin-top: 10px;
+}
+
+.surname {
+	width: 295px;
+	height: 25px;
+	padding-left: 5px;
+	padding-top: 5px;
+	background-color: #000000;
+	opacity: 0.3;
+	border: 2px solid #FFFFFF; 
+	outline: none;
+	color: #FFFFFF;
+}
+
+.surname:hover {
+	opacity: 0.7;
+}
