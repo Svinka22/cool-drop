@@ -1,24 +1,32 @@
 body {
 	margin: 0;
+	display: block;
 }
 
-.div-form {
-	background-size: cover;
+.div-bac {
+	background-image: url("https://wallpaperscave.ru/images/original/18/07-06/earth-ocean-64581.jpg");
 	background-repeat: no-repeat;
-	background-image: url("https://b1.gmbox.ru/c/134796.jpg");
+	background-size: cover;
+	padding-top: 10vh;
 	width: 100vw;
 	height: 90vh;
-	padding-top: 10vh;
 }
 
-.div-auto {
-	width: 300px;
+.div1 {
+	width: 230px;
+	height: 100px;
+	margin: auto;
+	color: #000000;
+}
 
+.div2 {
+	width: 500px;
 	margin: auto;
 }
 
 .div-name {
 	width: 300px;
+	margin: auto;
 }
 
 .name {
@@ -39,6 +47,7 @@ body {
 
 .div-surname {
 	width: 300px;
+	margin: auto;
 	margin-top: 10px;
 }
 
@@ -55,5 +64,24 @@ body {
 }
 
 .surname:hover {
+	opacity: 0.7;
+}
+
+.div3 {
+	margin-left: 210px;
+	margin-top: 30px;
+}
+
+.vv {
+	width: 90px;
+	height: 40px;
+	background-color: #000000;
+	opacity: 0.2;
+	color: #FFFFFF;
+	outline: none;
+	border: 2px solid skyblue;
+}
+
+.vv:hover {
 	opacity: 0.7;
 }
