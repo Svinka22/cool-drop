@@ -35,13 +35,13 @@ body {
 }
 
 .div-name {
-	width: 300px;
+	width: 500px;
 	margin: auto;
 }
 
 .name {
-	width: 295px;
-	height: 25px;
+	width: 495px;
+	height: 40px;
 	padding-left: 5px;
 	padding-top: 5px;
 	background-color: #000000;
@@ -56,13 +56,13 @@ body {
 }
 
 .div-email {
-	width: 300px;
+	width: 500px;
 	margin: auto;
 }
 
 .email {
-	width: 295px;
-	height: 50px;
+	width: 495px;
+	height: 70px;
 	padding-left: 5px;
 	padding-top: 5px;
 	background-color: #000000;
@@ -78,14 +78,14 @@ body {
 }
 
 .div-surname {
-	width: 300px;
+	width: 500px;
 	margin: auto;
 	margin-top: 10px;
 }
 
 .surname {
-	width: 295px;
-	height: 25px;
+	width: 495px;
+	height: 40px;
 	padding-left: 5px;
 	padding-top: 5px;
 	background-color: #000000;
