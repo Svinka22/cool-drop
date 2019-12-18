@@ -5,6 +5,65 @@ body {
 
 /*Header*/
 
+.div-bacc-head {
+	background-image: url("https://storge.pic2.me/c/1360x800/439/52bf7ac9111ad.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 98.7vw;
+	height: 92vh;
+	padding-top: 8vh;
+}
+
+.div-bacc-text {
+	width: 350px;
+	height: 40px;
+	margin: auto;
+	font-size: 50px;
+	color: #181716;
+}
+
+.butt {
+	border-radius: 25px;
+	width: 140px;
+	height: 40px;
+	outline: none;
+	background-color: ;
+	color: #181716;
+	font-size: 17px;
+	opacity: 0.8;
+}
+
+.div-butt {
+	margin-top: 40px;
+	float: left;
+	border-radius: 25px;
+	width: 150px;
+}
+
+.div-bort-head {
+	width: 400px;
+	margin: auto;
+}
+
+.div-but {
+	margin-top: 40px;
+	float: left;
+	border-radius: 25px;
+	width: 150px;
+	margin-left: 80px;
+}
+
+.but {
+	border-radius: 25px;
+	opacity: 0.8;
+	width: 140px;
+	height: 40px;
+	outline: none;
+	background-color: ;
+	color: #181716;
+	font-size: 17px;
+}
+
 /*Section 1*/
 
 .div-bac {
@@ -18,14 +77,15 @@ body {
 	background-repeat: no-repeat;
 	opacity: 1;
 	padding-top: 10vh;
-	width: 100vw;
+	width: 98.7vw;
 	height: 65vh;
 }
 
 .div1 {
-	width: 150px;
+	width: 200px;
 	height: 100px;
 	margin: auto;
+	font-size: 40px;
 	color: #898780;
 }
 
@@ -116,4 +176,12 @@ body {
 
 .vv:hover {
 	opacity: 0.7;
+}
+
+/*section zopa*/
+
+.div-zopa {
+	width: 98.7vw;
+	height: 15vh;
+	background-color: #FFFFFF;
 }
