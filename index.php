@@ -1,1 +1,1 @@
-print(ddd)
+echo "Hello world";
