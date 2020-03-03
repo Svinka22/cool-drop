@@ -261,6 +261,25 @@
 	background-color: #E2780D;
 }
 
+.div-12 {
+	width: 300px;
+	height: 40px;
+	font-size: 35px;
+	text-align: center;
+	margin: auto;
+}
+
+.div-13 {
+	background-color: #E2780D;
+	height: 2px;
+	width: 0;
+	margin: auto;
+	transition: width 0.5s ease-in;
+}
+
+.div-12:hover .div-13 {
+	width: 200px;
+}
 
 @media all and (max-width: 320px) {
 	.div-0 {
